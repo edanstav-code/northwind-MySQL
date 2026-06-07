@@ -1,4 +1,6 @@
-#
+# SELECT ProductID, ProductName FROM producs ;
+DESCRIBE northwind.products;
+
 # Converted from MS Access 2010 Northwind database (northwind.accdb) using
 # Bullzip MS Access to MySQL Version 5.1.242. http://www.bullzip.com
 #
